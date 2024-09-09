@@ -1,0 +1,7 @@
+catboost
+joblib
+optuna
+streamlit
+xgboost
+markupsafe
+zenml

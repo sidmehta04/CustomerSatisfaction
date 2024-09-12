@@ -5,3 +5,4 @@ streamlit
 xgboost
 markupsafe
 zenml
+scikit-learn

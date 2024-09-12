@@ -4,7 +4,7 @@ from steps.clean_data import clean_data
 from steps.eval import eval_model
 from steps.model_train import model_train
 
-@pipeline
+@pipeline(enable_cache=False)
 
 def training_pipeline(data_path:str):
     df=ingest_data(data_path)

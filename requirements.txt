@@ -6,3 +6,4 @@ xgboost
 markupsafe
 zenml
 scikit-learn
+mlflow

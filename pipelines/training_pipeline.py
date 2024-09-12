@@ -8,8 +8,8 @@ from steps.model_train import model_train
 
 def training_pipeline(data_path:str):
     df=ingest_data(data_path)
-    clean_data(df)
-    model_train(df)
-    eval_model(df)
+    X_train,X_test,y_train,y_test= clean_data(df)
+    model=model_train(X_train,X_test,y_train,y_test)
+    r2_score,rmse=eval_model(model,X_test,y_test)
 
 

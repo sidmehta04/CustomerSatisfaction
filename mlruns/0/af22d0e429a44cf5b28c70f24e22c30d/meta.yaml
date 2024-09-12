@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/siidh/Documents/End_to_end_ML_Project/mlruns/0/af22d0e429a44cf5b28c70f24e22c30d/artifacts
+end_time: 1726158241094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af22d0e429a44cf5b28c70f24e22c30d
+run_name: sneaky-flea-754
+run_uuid: af22d0e429a44cf5b28c70f24e22c30d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726158239200
+status: 3
+tags: []
+user_id: siidh

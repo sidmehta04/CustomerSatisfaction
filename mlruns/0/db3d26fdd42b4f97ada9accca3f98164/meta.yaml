@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/siidh/Documents/End_to_end_ML_Project/mlruns/0/db3d26fdd42b4f97ada9accca3f98164/artifacts
+end_time: 1726158288043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db3d26fdd42b4f97ada9accca3f98164
+run_name: incongruous-shad-535
+run_uuid: db3d26fdd42b4f97ada9accca3f98164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726158286369
+status: 3
+tags: []
+user_id: siidh

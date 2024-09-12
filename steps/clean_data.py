@@ -24,6 +24,7 @@ def clean_data(df:pd.DataFrame)->Tuple[
         data_clean=DataCleaning(processed_data,dvide_strat)
         X_train,X_test,y_train,y_test=data_clean.handle_data()
         logging.info("DataCleaning Done")
+        return X_train,X_test,y_train,y_test
     except Exception as e:
         logging.error("Error in cleaning data {}".format(e))
         raise e
